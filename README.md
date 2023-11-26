@@ -1,3 +1,3 @@
 253850
-Have a good day! Hello
+Hello
 World
