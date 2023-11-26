@@ -9,6 +9,7 @@ Have a good week! Hello
 <<<<<<< HEAD
 >>>>>>> 46a6d65 (change 4)
 Have a good day! Hello
+<<<<<<< HEAD
 Autumn! Hello
 >>>>>>> 721ca46 (change 4)
 =======
@@ -17,4 +18,6 @@ Autumn! Hello
 =======
 Autumn Hello
 >>>>>>> 20dc633 (change 4)
+=======
+>>>>>>> 5f3eb15 (change 4)
 World
